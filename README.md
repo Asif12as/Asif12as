@@ -1,3 +1,4 @@
+|[logo] (https://github.com/Asif12as/Asif12as/blob/main/banner/banner.png)
 <h1 align="center">Hi 👋, I'm MD ASHIF</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
